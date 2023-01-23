@@ -1,0 +1,6 @@
+[submodule "TwitterClone-API"]
+	path = TwitterClone-API
+	url = https://github.com/rektbydead/TwitterClone-API
+[submodule "TwitterClone-UI"]
+	path = TwitterClone-UI
+	url = https://github.com/rektbydead/TwitterClone-UI
